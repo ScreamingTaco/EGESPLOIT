@@ -1,4 +1,4 @@
-# EGESPLOIT [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://raw.githubusercontent.com/EgeBalci/EGESPLOIT/master/LICENSE?token=AQYjCTVzZPDeUfD7VWrNhzERQAM-rMYZks5Xle7twA%3D%3D)  [![Donate](https://img.shields.io/badge/Donate-Patreon-green.svg)](http://patreon.com/user?u=3556027)
+# EGESPLOIT [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
 
 
 EGESPLOIT is a golang library for malware development, it has few unique functions for meterpreter integration.
@@ -37,8 +37,4 @@ EGESPLOIT is a golang library for malware development, it has few unique functio
             RSE stands for "Reduced Sized Exploits", functions under RSE folder are build with windows api calls for reducing payload sizes.
       
       
-![](http://i.imgur.com/8L1wmjo.png)
 
-   ![](http://i.imgur.com/N2bhpR9.jpg)
-
-Bitcoin: 16GvMV7eZH22p4rLQuu8h2gbgSLYr11KBM
